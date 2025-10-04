@@ -19,6 +19,12 @@ Desarrollar proyectos tecnológicos que aporten valor en áreas como redes, IoT,
 **Referencia:** [IEEE Xplore](https://doi.org/10.1109/CHILECON60335.2023.10418689)  
 **Reflexión:** Esta colaboración me permitió aportar en un trabajo de investigación aplicada, uniendo inteligencia artificial y telecomunicaciones.
 
+### 📖 MLOps en la Nube: Despliegue Automatizado de Modelo Predictivo
+**Descripción:** Actividad de curso de Machine Learning enfocada en desplegar un modelo predictivo como API REST, aplicando buenas prácticas de MLOps, documentación y pruebas automatizadas.  
+**Objetivo:** Implementar un sistema escalable y reproducible que permita exponer predicciones de un modelo de clasificación de cáncer de mama de manera confiable.  
+**Tecnologías utilizadas:** Python, Flask, Docker, GitHub Actions, scikit-learn, joblib, REST API.  
+**Referencia:** [Repositorio de la actividad](https://github.com/Ang172/MLOpsModulo10)  
+**Reflexión:** Esta actividad me permitió aplicar conceptos de MLOps, CI/CD y despliegue de modelos predictivos, reforzando la importancia de la automatización y la escalabilidad en proyectos de ML.
 
 
 ## 🛠️ Habilidades
