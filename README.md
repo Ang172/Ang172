@@ -35,6 +35,7 @@ Desarrollar proyectos tecnológicos que aporten valor en áreas como redes, IoT,
 ![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%2300599C.svg?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 
 ---
 
@@ -58,6 +59,7 @@ Desarrollar proyectos tecnológicos que aporten valor en áreas como redes, IoT,
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-%23008080.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
 
 ---
 
