@@ -2,7 +2,7 @@
 
 ## 👤 Sobre mí
 Hola, mi nombre es **Angelo**.  
-Soy **Ingeniero Electrónico** de la PUCV con interés en **redes IP, sistemas embebidos e inteligencia artificial aplicada**.  
+Soy **Ingeniero Electrónico** de la PUCV con interés en la **inteligencia artificial aplicada**.  
 Me apasiona la tecnología, la innovación y la creación de soluciones que integren hardware y software para resolver problemas del mundo real.  
 
 🎯 **Objetivo profesional:**  
